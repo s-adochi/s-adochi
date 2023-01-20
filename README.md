@@ -1,7 +1,7 @@
 [![MasterHead](https://media3.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif?cid=ecf05e47iaf4aqyvtnmagc3k3gypsyfqwaqrljfieo9kveew&rid=giphy.gif&ct=g)](https://s-silvanus.io)
 <h1 align="center">Hi 👋, I'm Silvanus Adochi</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-adochi&label=Profile%20views&color=0e75b6&style=flat" alt="s-adochi" /> </p>
 

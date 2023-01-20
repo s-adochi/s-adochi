@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/full-stack-developer-gif-18629164)](https://s-silvanus.io)
+[![MasterHead](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://s-silvanus.io)
 <h1 align="center">Hi 👋, I'm Silvanus Adochi</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">

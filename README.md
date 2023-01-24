@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-adochi&label=Profile%20views&color=0e75b6&style=flat" alt="s-adochi" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://linktr.ee/silvanusadochi)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/s-adochi/Portfolio.git)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/silvanusadochi](https://linktr.ee/silvanusadochi)
 
